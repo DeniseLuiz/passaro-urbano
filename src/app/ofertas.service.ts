@@ -31,8 +31,12 @@ export class OfertasService {
       valor: 32.90,
       destaque: true,
       imagens: [
-        {url: "/assets/ofertas/2/img1.jpg"},
-        {url: "/assets/ofertas/2/img2.jpg"},
+        {
+          url: "/assets/ofertas/2/img1.jpg"
+        },
+        {
+          url: "/assets/ofertas/2/img2.jpg"
+        },
         {url: "/assets/ofertas/2/img3.jpg"},
         {url: "/assets/ofertas/2/img4.jpg"}
       ]
